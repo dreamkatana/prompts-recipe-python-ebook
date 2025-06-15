@@ -12,57 +12,52 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/capa.webp"
     width="400"  
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto EBOOK Python Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso a plataforma da [DIO](https://dio.me), servirá como base para um ebook mais completo.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital sobre Python com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/prompts-recipe-python-ebook/blob/main/output/ebook_python_jornada.md" title="View Ebook now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Google Gemini](https://gemini.google.com/) 
+- [Sora](https://openai.com/sora)
+- [Markdown](https://www.markdownguide.org/)
 
 ## 🧠 Prompts
 
 
-ChatGPT：
+Google Gemini：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+|  título  | Crie um título de um ebook sobre o tema de Python, o ebook é do nicho de programação e o subnicho é de Python para iniciantes, o título deve ser inspirador e incluir a palavra "Jornada", me liste 5 variações de títulos                                                         |
+| conteúdo | Crie um ebook para iniciantes em Python com os seguintes capítulos: 1) O que é Python e por que usá-lo, 2) Variáveis e tipos de dados, 3) Operadores e expressões. {REGRAS} Use linguagem simples e acessível, inclua exemplos práticos de código, crie um sumário no início, adicione uma apresentação pessoal fictícia do autor com nome "João Eduardo" |
+| imagem de capa | Uma pessoa em frente a um monitor com código Python na tela, estilo minimalista, com elementos futuristas em tons de azul e verde --v 5.1 |
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo educativo gerado via Google Gemini
+- Imagens geradas via Sora
+- Formatação em Markdown para fácil leitura e edição
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- Ebook gerado em formato markdown em `output`
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base. O ebook pode ser lido diretamente em formato markdown ou convertido para PDF usando ferramentas como Pandoc ou exportadores de markdown online.
 
 ## 👨‍💻 Expert
 
@@ -71,17 +66,13 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/7691411?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspJoão Eduardo<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/dreamkatana">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+    <a href="https://www.linkedin.com/in/jepds/?locale=pt_BR">LinkedIn</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
@@ -89,4 +80,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [João Eduardo](https://github.com/dreamkatana)
