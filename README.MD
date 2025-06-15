@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital sobre Python com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/prompts-recipe-python-ebook/blob/main/output/ebook_python_jornada.md" title="View Ebook now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/dreamkatana/prompts-recipe-python-ebook/blob/main/output/ebook_python_jornada.md" title="View Ebook now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
